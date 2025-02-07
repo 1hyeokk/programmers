@@ -1,2 +1,2 @@
-# programmers 코딩연습
+# Programmers 코딩연습
 coding training
